@@ -155,6 +155,12 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libtinyxml2_1 \
     sensors.native \
+    libasphere \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
+    libshoebox \
+    libspatialaudio \
     vendor.dolby.hardware.dms@2.0 \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.memory.pasrmanager@1.0 \
